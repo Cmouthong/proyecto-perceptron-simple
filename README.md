@@ -1,0 +1,1 @@
+Ejemplos didácticos del Perceptrón Simple en Python. Incluye dos implementaciones (diagnóstico médico y problema de la paloma) que entrenan un perceptrón mediante la regla de aprendizaje básica y muestran la evolución del error y los pesos con animaciones Matplotlib. Actividad académica para comprender convergencia y comportamiento del perceptrón.
